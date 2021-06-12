@@ -20,7 +20,7 @@ function preload(){
   enemy2Img=loadImage("enemy2.png");
   enemy3Img=loadImage("enemy3.png");
   astronautImg=loadImage("astronaut.png");
-  backgroundSound=loadSound("interstellar-space-preview.mp3");
+  backgroundSound=loadSound("interstellar-space-preview-full.mp3");
   explosion=loadSound("preview.mp3");
 
 }
